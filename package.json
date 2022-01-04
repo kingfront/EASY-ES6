@@ -1,0 +1,19 @@
+{
+  "name": "easy-es6",
+  "version": "1.0.0",
+  "description": "easy-es6 with vuepress",
+  "author": "kinghao",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev",
+    "build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "devDependencies": {
+    "vuepress": "^1.0.0"
+  },
+  "keywords": []
+}
